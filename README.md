@@ -1,4 +1,6 @@
 # Gliffy Diagram in Readme
+Note: This way only displays a static image of a Gliffy Diagram, not link or scaling interaction.
+
 ## Gliffy Online
 In response to [this stackoverflow question](http://stackoverflow.com/questions/31294556/github-readme-render-gliffy-diagrams), here's how to embed a Gliffy Diagram into your Readme (assuming that you are using Gliffy Online - available via our website and not one of our Plugins or Integrations).  This image will be updated when you save a new version of your diagram.
 
